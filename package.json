@@ -1,7 +1,8 @@
 {
   "name": "object-filtering",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "对象字段过滤",
+  "repository": "https://github.com/wuliaodexuanze/object-filtering.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
