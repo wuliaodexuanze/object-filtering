@@ -1,5 +1,5 @@
 # object-filtering
-=================
+
 * [use](#use)
 * [example](#example)
 
