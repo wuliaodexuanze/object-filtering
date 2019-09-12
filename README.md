@@ -1,11 +1,8 @@
-Table of Contents
-=================
-
-* [object\-filtering](#object-filtering)
-  * [use](#use)
-  * [example](#example)
-
 # object-filtering
+=================
+* [use](#use)
+* [example](#example)
+
 
 ## use
 ```
