@@ -1,7 +1,7 @@
 {
   "name": "object-filtering",
-  "version": "1.0.1",
-  "description": "对象字段过滤",
+  "version": "1.0.2",
+  "description": "Normal object filtering",
   "repository": "https://github.com/wuliaodexuanze/object-filtering.git",
   "main": "index.js",
   "scripts": {

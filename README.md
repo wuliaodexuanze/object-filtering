@@ -1,4 +1,6 @@
-[TOC]
+* [object\-filtering](#object-filtering)
+  * [use](#use)
+  * [example](#example)
 
 # object-filtering
 
