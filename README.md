@@ -1,4 +1,11 @@
+[TOC]
+
 # object-filtering
+
+## use
+```
+npm i object-filtering
+```
 
 ## example
 ```javascript
